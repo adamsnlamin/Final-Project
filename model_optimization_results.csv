@@ -1,4 +1,4 @@
 Iteration,Parameters Changed,Accuracy
 Initial,N/A,0.8995633125305176
-Update #2,Adjusted architecture of model and dropout rate to 0.2 and L2 regularization strength to 0.001,0.8995633125305176
+Update #2,Adjusted architecture of model and dropout rate to 0.2 and L2 regularization strength to 0.001,0.8951964974403381
 Update #3,Added an additional hidden layer with 32 units,0.8995633125305176
