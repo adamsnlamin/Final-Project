@@ -7,17 +7,13 @@ In this project, we employ Machine Learning to analyze the art collections house
 
 # Project Requirements:
 
-#Data Model Implementation: 
-The Python script initializes, trains, and evaluates the model, performs data cleansing and normalization, utilizes data retrieved from SQLite, and demonstrates the model's meaningful predictive power with a minimum classification accuracy of 75% or an R-Squared value of 0.85.
+Data Model Implementation: The Python script initializes, trains, and evaluates the model, performs data cleansing and normalization, utilizes data retrieved from SQLite, and demonstrates the model's meaningful predictive power with a minimum classification accuracy of 75% or an R-Squared value of 0.85.
 
-# Data Model Optimization:
-Changes made during the optimization and evaluation process are documented in a CSV file and displayed at the end of the script.
+Data Model Optimization: Changes made during the optimization and evaluation process are documented in a CSV file and displayed at the end of the script.
 
-# GitHub Documentation:
-The README contains the contents of the project.
+GitHub Documentation: The README contains the contents of the project.
 
-# Group Presentation:
-All group members present smoothly within the time restrictions and maintain audience interest.
+Group Presentation: All group members present smoothly within the time restrictions and maintain audience interest.
 
 
 
