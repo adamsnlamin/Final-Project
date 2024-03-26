@@ -29,3 +29,5 @@ TensorFlow: An open-source machine learning framework developed by Google for bu
 
 Keras: A high-level neural networks API written in Python, capable of running on top of TensorFlow. It provides a user-friendly interface for building, training, and deploying deep learning models, enabling fast experimentation and prototyping of neural networks for both beginners and experts in the field.
 
+Art Institute of Chicago API: JSON-formatted data as a REST-style service that allows developers to explore and integrate the museum’s public data into their projects. (https://api.artic.edu/docs/)
+
